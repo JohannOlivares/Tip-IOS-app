@@ -2,20 +2,19 @@
 # **Tip**
 
 ## Description
- Tip is a simple tipping calculatora that allows you to input the bill amount and calculate the tip based on percentage.
+ Tip is a simple IOS tipping calculator app that allows you to input the bill amount and calculate the tip based on a selected percentage.
+ This project was made using the Xcode IDE and was programmed using the swift programming language.
  
+# Technologies Used
+- Xcode IDE
+- Swift
 
-## Video Walkthrough 
-
-Here's a walkthrough of implemented user stories:
+## App Demo
+Here's a walkthrough of this simple app:
 
 <img src='tipRecording.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
