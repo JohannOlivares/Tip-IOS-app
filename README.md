@@ -1,10 +1,9 @@
 
-# **Tip** is a tip calculator application for iOS.
+# **Tip**
 
-# Description
+## Description
  Tip is a simple tipping calculatora that allows you to input the bill amount and calculate the tip based on percentage.
-## User Stories
-
+ 
 
 ## Video Walkthrough 
 
