@@ -2,9 +2,6 @@
 
 **tip** is a tip calculator application for iOS.
 
-Submitted by: **Johann Olivares**
-
-Time spent: **4** hours spent in total
 
 ## User Stories
 
