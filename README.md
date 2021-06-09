@@ -9,7 +9,7 @@
 - Xcode IDE
 - Swift
 
-## App Demo
+# App Demo
 Here's a walkthrough of this simple app:
 
 <img src='tipRecording.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
