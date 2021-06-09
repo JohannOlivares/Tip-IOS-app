@@ -13,7 +13,6 @@
 Here's a walkthrough of this simple app:
 
 <img src='tipRecording.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 
 ## License
